@@ -1,13 +1,13 @@
 # URL Encoded Query String
 
-This project consists of a single class. Download the source for it, insert
+This project consists of a single Java class. Download the source for it, insert
 into your own projects and use as you see fit under the BSD license.
 
 There is also an optional unit test class, which offers good code coverage.
 
 ## Usage
 
-Represents a www-form-urlencoded query string containing an (ordered) list of parameters.
+Represents a `www-form-urlencoded` query string containing an (ordered) list of parameters.
 
 An instance of this class represents a query string encoded using the
 `www-form-urlencoded` encoding scheme, as defined by [HTML 4.01 Specification]
